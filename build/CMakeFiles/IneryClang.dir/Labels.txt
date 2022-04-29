@@ -1,0 +1,14 @@
+# Target labels
+ IneryClang
+# Source files and their labels
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryClang
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryClang.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryClang-complete.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-install.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-mkdir.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-download.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-update.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-patch.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-configure.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-build.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryClang-prefix/src/IneryClang-stamp/IneryClang-test.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/inery-pp.dir/src/tools/postpass.cc.o  -o inery-pp  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm-opcodecnt.dir/src/tools/wasm-opcodecnt.cc.o CMakeFiles/wasm-opcodecnt.dir/src/binary-reader-opcnt.cc.o  -o wasm-opcodecnt  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 

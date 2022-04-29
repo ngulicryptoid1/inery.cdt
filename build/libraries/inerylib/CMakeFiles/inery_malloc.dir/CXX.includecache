@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dusan/Desktop/inery.cdt.1.7.x/libraries/inerylib/core/inery/check.hpp
+alloca.h
+-
+string
+-
+
+/home/dusan/Desktop/inery.cdt.1.7.x/libraries/inerylib/core/inery/print.hpp
+utility
+-
+string
+-
+
+/home/dusan/Desktop/inery.cdt.1.7.x/libraries/inerylib/malloc.cpp
+cstdlib
+-
+alloca.h
+-
+core/inery/check.hpp
+/home/dusan/Desktop/inery.cdt.1.7.x/libraries/inerylib/core/inery/check.hpp
+core/inery/print.hpp
+/home/dusan/Desktop/inery.cdt.1.7.x/libraries/inerylib/core/inery/print.hpp
+

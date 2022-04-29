@@ -1,0 +1,1 @@
+cmd='/home/dusan/bin/cmake;-DCMAKE_INSTALL_PREFIX=/usr/local/llvm;-DCMAKE_BUILD_TYPE=Release;-DINERY_TOOL_DIR=/home/dusan/Desktop/inery.cdt.1.7.x/tools;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

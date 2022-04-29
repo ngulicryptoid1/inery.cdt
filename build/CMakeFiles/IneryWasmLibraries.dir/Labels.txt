@@ -1,0 +1,14 @@
+# Target labels
+ IneryWasmLibraries
+# Source files and their labels
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryWasmLibraries
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryWasmLibraries.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryWasmLibraries-complete.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-install.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-mkdir.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-download.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-update.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-patch.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-configure.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-build.rule
+/home/dusan/Desktop/inery.cdt.1.7.x/build/IneryWasmLibraries-prefix/src/IneryWasmLibraries-stamp/IneryWasmLibraries-test.rule

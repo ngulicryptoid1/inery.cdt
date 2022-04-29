@@ -1,0 +1,2 @@
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc libinery_malloc.a  CMakeFiles/inery_malloc.dir/malloc.cpp.obj
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib libinery_malloc.a

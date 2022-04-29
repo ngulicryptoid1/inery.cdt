@@ -1,0 +1,2 @@
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc libnative_rt.a  CMakeFiles/native_rt.dir/compiler_builtins.cpp.obj CMakeFiles/native_rt.dir/fixtfti.c.obj CMakeFiles/native_rt.dir/fixunstfti.c.obj CMakeFiles/native_rt.dir/fixsfti.c.obj CMakeFiles/native_rt.dir/fixdfti.c.obj CMakeFiles/native_rt.dir/fixunssfti.c.obj CMakeFiles/native_rt.dir/fixunsdfti.c.obj CMakeFiles/native_rt.dir/floattidf.c.obj CMakeFiles/native_rt.dir/floatuntidf.c.obj
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib libnative_rt.a

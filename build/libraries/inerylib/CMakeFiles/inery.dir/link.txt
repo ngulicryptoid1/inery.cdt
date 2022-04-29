@@ -1,0 +1,2 @@
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc libinery.a  CMakeFiles/inery.dir/inerylib.cpp.obj CMakeFiles/inery.dir/crypto.cpp.obj
+/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib libinery.a

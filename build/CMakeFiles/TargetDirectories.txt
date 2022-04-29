@@ -1,0 +1,10 @@
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/install/local.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/install.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/list_install_components.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryClang.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryWasmLibraries.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/rebuild_cache.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/install/strip.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/IneryTools.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/toolchain-tester.dir
+/home/dusan/Desktop/inery.cdt.1.7.x/build/CMakeFiles/edit_cache.dir
