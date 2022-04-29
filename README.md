@@ -1,9 +1,9 @@
 # INERY.CDT (Contract Development Toolkit)
-## Version : 1.7.0
+## Version : 1.0.0
 
 ## Guided Installation or Building from Scratch
 ```sh
-git clone --recursive https://github.com/inery/inery.cdt
+git clone --recursive https://github.com/inery-blockchain/inery.cdt
 cd inery.cdt
 mkdir build
 cd build
