@@ -1,2 +1,0 @@
-/home/dusan/Desktop/inery.cdt.1.7.x/build/tools/toolchain-tester/CMakeFiles/rebuild_cache.dir
-/home/dusan/Desktop/inery.cdt.1.7.x/build/tools/toolchain-tester/CMakeFiles/edit_cache.dir

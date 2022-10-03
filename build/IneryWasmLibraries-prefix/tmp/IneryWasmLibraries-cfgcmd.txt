@@ -1,1 +1,0 @@
-cmd='/home/dusan/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/home/dusan/Desktop/inery.cdt.1.7.x/build/lib/cmake/inery.cdt/IneryWasmToolchain.cmake;-DINERY_CDT_BIN=/home/dusan/Desktop/inery.cdt.1.7.x/build/lib/cmake/inery.cdt/;-DBASE_BINARY_DIR=/home/dusan/Desktop/inery.cdt.1.7.x/build;-D__APPLE=;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

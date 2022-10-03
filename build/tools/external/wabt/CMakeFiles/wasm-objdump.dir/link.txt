@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm-objdump.dir/src/tools/wasm-objdump.cc.o CMakeFiles/wasm-objdump.dir/src/binary-reader-objdump.cc.o  -o wasm-objdump  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 

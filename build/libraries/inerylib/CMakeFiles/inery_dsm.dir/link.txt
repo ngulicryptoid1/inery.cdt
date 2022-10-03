@@ -1,2 +1,0 @@
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc libinery_dsm.a  CMakeFiles/inery_dsm.dir/simple_malloc.cpp.obj
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib libinery_dsm.a

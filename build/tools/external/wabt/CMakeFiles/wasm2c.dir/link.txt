@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm2c.dir/src/tools/wasm2c.cc.o CMakeFiles/wasm2c.dir/src/c-writer.cc.o  -o wasm2c  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 

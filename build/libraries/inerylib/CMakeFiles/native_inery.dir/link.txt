@@ -1,2 +1,0 @@
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc libnative_inery.a  CMakeFiles/native_inery.dir/inerylib.cpp.obj CMakeFiles/native_inery.dir/crypto.cpp.obj CMakeFiles/native_inery.dir/malloc.cpp.obj
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib libnative_inery.a

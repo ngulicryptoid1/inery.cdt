@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm-validate.dir/src/tools/wasm-validate.cc.o  -o wasm-validate  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 

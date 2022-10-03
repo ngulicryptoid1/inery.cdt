@@ -1,2 +1,0 @@
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ar qc librt.a  CMakeFiles/rt.dir/compiler_builtins.cpp.obj CMakeFiles/rt.dir/fixtfti.c.obj CMakeFiles/rt.dir/fixunstfti.c.obj CMakeFiles/rt.dir/fixsfti.c.obj CMakeFiles/rt.dir/fixdfti.c.obj CMakeFiles/rt.dir/fixunssfti.c.obj CMakeFiles/rt.dir/fixunsdfti.c.obj CMakeFiles/rt.dir/floattidf.c.obj CMakeFiles/rt.dir/floatuntidf.c.obj
-/home/dusan/Desktop/inery.cdt.1.7.x/build/bin/inery-ranlib librt.a

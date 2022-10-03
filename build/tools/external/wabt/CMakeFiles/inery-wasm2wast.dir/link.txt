@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/inery-wasm2wast.dir/src/tools/wasm2wat.cc.o  -o inery-wasm2wast  -L/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib -Wl,-rpath,/home/dusan/Desktop/inery.cdt.1.7.x/build/inery_llvm/./lib libwabt.a 
